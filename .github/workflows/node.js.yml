@@ -21,4 +21,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: Run JS file for test
-        run: node script.js
+        run: node main.js
